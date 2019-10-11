@@ -26,3 +26,5 @@ Este repositório reúne soluções dos exercícios do [URI Online Judge](https:
 6. Abra um Pull Request
     - Na descrição do seu PR explique seu algoritmo. Se existir outra resolução no repositório original renomei seu arquivo para o número seguinte da versão, como por exemplo: Versão 1 `uri1001.py` - Versão 2 `uri1001-2.py`
 7. Espere seu PR ser aceito :rocket:
+
+Lembre-se: Não existe código ruim, existem visões/versões diferentes de resolver o mesmo problema. :blush:
