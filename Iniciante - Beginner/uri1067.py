@@ -1,9 +1,9 @@
 '''
   Entrada: 8
   Saída:  1
-					3
-					5
-	        7
+  	3
+	5
+	7
 '''
 
 numero = int(raw_input())
