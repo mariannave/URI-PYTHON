@@ -8,13 +8,16 @@ Este repositório reúne soluções dos exercícios do [URI Online Judge](https:
 
 ```
 '''
-    Entrada: 10 | 9
+    Entrada:  10
+              9
     Saída: X = 19
     -----------------
-    Entrada: -10 | 4
+    Entrada:  -10
+              4
     Saída: X = -6
     -----------------
-    Entrada: 15 | -7
+    Entrada:  15
+              -7
     Saída: X = 8
 '''
 ```

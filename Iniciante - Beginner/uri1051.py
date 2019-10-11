@@ -1,3 +1,14 @@
+'''
+  Entrada: 3002.00
+  Saída: R$ 80.36
+  -----------------
+  Entrada: 1701.12
+  Saída: Isento
+  -----------------
+  Entrada: 4520.00
+  Saída: R$ 355.60
+'''
+
 salario = float(raw_input())
 
 if(salario > 0 and salario <= 2000):

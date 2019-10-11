@@ -1,3 +1,23 @@
+'''
+  Entrada: 7 21 -14
+  Saída: -14
+          7
+          21
+
+          7
+          21
+          -14
+  -----------------
+  Entrada: -14 21 7
+  Saída: -14
+          7
+          21
+
+          -14
+          21
+          7
+'''
+
 # -*- coding: utf-8 -*-
 #Pegando os números do teclado
 entrada = raw_input().split()

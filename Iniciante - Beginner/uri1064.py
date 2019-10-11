@@ -1,3 +1,14 @@
+'''
+  Entrada:  7
+						-5
+						6
+						-3.4
+						4.6
+						12
+  Saída:  4 valores positivos
+					7.4
+'''
+
 n1 = float(raw_input())
 n2 = float(raw_input())
 n3 = float(raw_input())
@@ -14,14 +25,14 @@ while (i < len(lista)):
 	if(lista[i] > 0):
 		positivos.append(lista[i])
 	i = i+1
-	
+
 
 i = 0
 resultado = 0
 while(i < len(positivos)):
 	resultado = resultado + positivos[i]
 	i = i + 1
-	
+
 media = resultado / len(positivos)
 qtde = len(positivos)
 

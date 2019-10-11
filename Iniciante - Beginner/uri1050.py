@@ -1,5 +1,9 @@
-entrada = int(raw_input())
+'''
+  Entrada:  11
+  Saída: Sao Paulo
+'''
 
+entrada = int(raw_input())
 
 if(entrada == 61):
 	print "Brasilia"
