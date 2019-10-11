@@ -1,12 +1,14 @@
 '''
-  Entrada:  Dia 5
-						08 : 12 : 23
-						Dia 9
-						06 : 13 : 23
-  Saída:  3 dia(s)
-					22 hora(s)
-					1 minuto(s)
-					0 segundo(s)
+  Entrada:
+  Dia 5
+  08 : 12 : 23
+  Dia 9
+  06 : 13 : 23
+  Saída:
+  3 dia(s)
+  22 hora(s)
+  1 minuto(s)
+  0 segundo(s)
 '''
 
 diainicio = raw_input().split()
