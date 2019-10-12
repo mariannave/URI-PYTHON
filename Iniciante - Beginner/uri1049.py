@@ -1,3 +1,20 @@
+'''
+  Entrada:  vertebrado
+						mamifero
+						onivoro
+  Saída: homem
+  -----------------
+  Entrada:  vertebrado
+						ave
+						carnivoro
+  Saída: aguia
+  -----------------
+  Entrada:  invertebrado
+						anelideo
+						onivoro
+  Saída: minhoca
+'''
+
 ent1 = raw_input()
 ent2 = raw_input()
 ent3 = raw_input()
@@ -24,7 +41,3 @@ else:
 			print "sanguessuga"
 		else:
 			print "minhoca"
-			
-			
-
-			
