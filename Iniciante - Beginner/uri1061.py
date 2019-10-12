@@ -1,3 +1,16 @@
+'''
+  Entrada:
+  Dia 5
+  08 : 12 : 23
+  Dia 9
+  06 : 13 : 23
+  Saída:
+  3 dia(s)
+  22 hora(s)
+  1 minuto(s)
+  0 segundo(s)
+'''
+
 diainicio = raw_input().split()
 diainicio = int(diainicio[1])
 horainicio = raw_input().split(":")
@@ -19,11 +32,11 @@ if(hora < 0):
 	hora = 24 + hora
 	dia = dia - 1
 
-minuto = mfinal - minicio 
+minuto = mfinal - minicio
 if(minuto < 0):
 	minuto = 60 + minuto
 	hora = hora - 1
-	
+
 segundos = sfinal - sinicio
 if(segundos < 0):
 	segundos = 60 + segundos
