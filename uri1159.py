@@ -17,3 +17,13 @@ while avaliador:
     print(soma)
     
     
+    '''
+    Entrada: 
+4
+11
+0
+    Saída: 
+40
+80
+
+'''
