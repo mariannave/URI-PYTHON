@@ -14,4 +14,19 @@ for c in range(0,quant_de_testes):
     print("{} eh primo".format(numero))
   elif not primo(numero):
     print("{} nao eh primo".format(numero))
+    
+    
+    '''
+    Entrada: 
+3
+8
+51
+7
+    Saída:
+8 nao eh primo
+51 nao eh primo
+7 eh primo
+
+
+'''
   
