@@ -13,3 +13,18 @@ for c in a:
         print("EVEN NEGATIVE")
     if c<0 and c%2==1:
         print("ODD NEGATIVE")
+        
+        '''
+    Entrada: 
+4
+-5
+0
+3
+-4
+    Saída: 
+ODD NEGATIVE
+NULL
+ODD POSITIVE
+EVEN NEGATIVE
+    
+'''
