@@ -16,3 +16,14 @@ for c in range(0,len(numeros)):
             contador += 1
             primeiro_elemento += 2
     print(soma)
+
+    '''
+    Entrada:
+2
+4 3
+11 2
+    Saída:
+21
+24
+  
+'''
