@@ -10,3 +10,16 @@ for c in a:
     elif c<10 or c>20:
         out+=1
 print("{} in\n{} out".format(inn,out))
+
+'''
+    Entrada: 
+4
+14
+123
+10
+-25
+    Saída: 
+2 in
+2 out
+ 
+'''
