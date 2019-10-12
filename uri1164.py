@@ -9,3 +9,18 @@ for c in range(0,quant_de_testes):
     print("{} eh perfeito".format(numero))
   else:
     print("{} nao eh perfeito".format(numero))
+    
+    '''
+    Entrada: 
+3
+6
+5
+28
+
+  Saída:
+6 eh perfeito
+5 nao eh perfeito
+28 eh perfeito
+
+
+'''
