@@ -14,3 +14,16 @@ if x%2==1:
     print(x + 6)
     print(x + 8)
     print(x + 10)
+    
+    #'''
+    Entrada:  8
+    Saída:
+9
+11
+13
+15
+17
+19
+    
+'''
+    #
