@@ -1,3 +1,17 @@
+'''
+Entrada:
+S
+1.0
+0.0
+-3.5
+2.5
+4.1
+Saída:
+12.6
+...
+
+
+
 soma_ou_media = input()
 soma = 0
 for i in range(12):
